@@ -1,0 +1,20 @@
+PODS:
+  - Leanplum-iOS-SDK (3.2.1)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - Leanplum-iOS-SDK (= 3.2.1)
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - Leanplum-iOS-SDK
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Leanplum-iOS-SDK: cdf2399abbea271ec50fbc6e274baea1fc9e0bfe
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 442274491c0c997a9944fce46f63077cf850fded
+
+COCOAPODS: 1.11.2
